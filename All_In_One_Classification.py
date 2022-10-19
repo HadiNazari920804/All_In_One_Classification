@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 11 11:24:17 2022
-
-@author: h.nazari
-"""
-
 def All_In_One_Classification(x,y):
     import pandas as pd
     import numpy as np
